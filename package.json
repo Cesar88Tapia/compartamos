@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Cesar88Tapia/compartamos/issues"
   },
-  "homepage": "https://github.com/Cesar88Tapia/compartamos#readme"
+  "homepage": "https://github.com/Cesar88Tapia/compartamos#readme",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
 }
